@@ -1,0 +1,28 @@
+body {
+    
+    text-align: center;
+    margin: 40px;
+}
+
+img {
+    max-width: 100%;
+    height: 50%;
+    margin-top: 20px;
+}
+.container{
+    
+    background-color: antiquewhite;
+}
+button{
+    font-size: small;
+    position: relative;
+    cursor: pointer;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-color: aquamarine;
+}
+button:hover{
+    background-color: blue !important;
+}
